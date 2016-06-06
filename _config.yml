@@ -1,0 +1,28 @@
+name: World On Fire
+favicon: null
+layout_spectrum: 0.6508289775811136
+typography_spectrum: 0.41623418498784304
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7923985759261996
+  lightness: 0.8866610345430672
+  saturation: 0.6565906661562622
+  rhythmicContrast: 0.4839815816376358
+purpose: []
